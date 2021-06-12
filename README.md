@@ -25,7 +25,7 @@ PHP
 
 XAML
 
-assembly language
+Assembly Language
 
 [Skill]
 
