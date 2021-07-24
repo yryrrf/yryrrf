@@ -26,13 +26,3 @@ PHP
 XAML
 
 Assembly Language
-
-[Skill]
-
-Raspberry Pi
-
-
-Learning:
-
-single-chip microcomputer
-
